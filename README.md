@@ -1,0 +1,2 @@
+# study
+All technic studies
