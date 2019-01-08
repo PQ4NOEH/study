@@ -45,8 +45,46 @@ Are measurable and testable properties of a system:
 5. Security architect
 6. Cloud architect
 ## Software development methodologies
+
+### The waterfall model
+Consist on a series of secuential steps which are accomplished one after another for example
+1. Requirements
+2. Design
+3. Implementation
+4. Verification
+5. Maintenance
+
+### Agile
+There are a variety of models: Scrum, kanban, XP, Crystal. Each has it's particularity but all of them focus on being adaptable to change and the attempt to find a balance betweennot having enought processes and having too much of them.
+
+Agile Manifesto core values states (4 core principles of agile software)[https://agilemanifesto.org/]
+1. individuals and interactions over processes and tools
+2. Working software over documentation
+3. Customer interaction and continous engagement over contract negotiation
+4. Adaptation over following a plan
+
+
+
 ## Project management
+### project schedule changes management
+In order to get a project back on schedule there are a number of approaches:
+1. working overtime
+2. Reducing scope
+3. Adding resources
+4. Reallocatin resources
+
 ## Office politics
 ## Software risk management
+Document potential risks. Different categories of risk:
+1. Functional. Incorrect requirements, lack of participation, confliting business goals
+2. Technical. Complexity, unknown technology, vendor or subcontractors dependencies.
+3. Personnel. unexperienced team members, unable to staff the project, productivity issues with team members.
+4. Financial. insufficient funding, difficult ROI constraint.
+5. Legal.
+6. Management. unexperienced, incorrect planning, lack of communication, organizational issues.
+
+for every project make (a risk impact likelihood)[https://www.slideteam.net/media/catalog/product/cache/1/thumbnail/543x403/0e7a751fc24f39b632cb88e6c5925d9b/p/r/priority_ranking_action_matrix_sample_of_ppt_Slide01.jpg] 
+
+
 ## Configuration management
 ## Software product lines
